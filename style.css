@@ -453,7 +453,7 @@ a {
     #logIn {
         display: none;
     }
-    .gradient {
+    .gradient__lite, .gradient__blue {
         display: none;
     }
 }
